@@ -49,6 +49,17 @@ Global-Superstore-Sales-Analysis/
 * **Seasonal Demand Spikes :** Longitudinal trends show steady year-over-year expansion (~26%-27%), driven primarily by order frequency surges during Q4 (November/ December).
 
 
+## Business Recommendations
 
+1. **Controls Heavy Discounts :** Avoid offering discounts above 20% on vulnerable product categories where profit margin quickely disappear.
+2. **Shift to Margin-Weighted Management :** Capitalize on high-margin Technology lines while re-engineering cost structures for low-margin Furniture categories.
+3. **Audit Regional Logistics :** Investigate high-sales/ low-profit territories to identify localized shipping friction or excessive markdown policies.
+4. **Redefine High-Value Customer Metrics :** Re-evaluate high-volume accounts that currently register net losses by adjusting their pricing terms and maximum markdown allowances. 
+
+
+## Tech Stack
+
+* **Languages & Tools :** Python(Pandas, Jupyter), SQL(MySQL), Power BI
+* **Conepts :** Star Schema Design, Data Cleaning, Exploratory Data Analysis, Window Functions, Business Intelligence Reporting
 
 
